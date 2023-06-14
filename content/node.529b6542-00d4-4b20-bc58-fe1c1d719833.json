@@ -1,0 +1,114 @@
+{
+    "uuid": [
+        {
+            "value": "529b6542-00d4-4b20-bc58-fe1c1d719833"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "blog",
+            "target_type": "node_type",
+            "target_uuid": "546eca28-4c1e-4725-a62e-4259c65bab35"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-14T10:08:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "503df637-93a2-43c7-b067-7d5913ac9c2f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "503df637-93a2-43c7-b067-7d5913ac9c2f"
+        }
+    ],
+    "title": [
+        {
+            "value": "A day at the Japanese Garden"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-14T10:08:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-14T10:08:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/blog\/day-japanese-garden",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial. Cloud bread fanny pack street art fam, 90's flexitarian ugh snackwave biodiesel slow-carb ramps squid venmo.<\/p>\n<pre><code class=\"language-php\">&lt;?php\necho \"You can embed code snippets\";\nif (TRUE) {\n  echo \"They're automatically highlighted!\";\n}<\/code><\/pre>\n<h2>Headings automatically have anchor links<\/h2>\n<p>Brunch fashion axe helvetica affogato blue bottle, fixie shoreditch venmo. Post-ironic hexagon truffaut vegan crucifix, waistcoat ugh chillwave flannel. Deep v pop-up iPhone chia, live-edge blog pork belly etsy PBR&B. Vape disrupt air plant XOXO wayfarers coloring book banh mi knausgaard. Roof party fanny pack forage raw denim poutine humblebrag. Semiotics swag tumblr, vaporware truffaut bushwick tote bag poutine fam enamel pin salvia affogato.<\/p>",
+            "format": "rich_text",
+            "summary": null
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "A trail at the Japanese Garden in Portland, Oregon.",
+            "title": null,
+            "width": 1920,
+            "height": 1280,
+            "target_type": "file",
+            "target_uuid": "e83a2483-3ad0-4b45-b3dd-b5c1ba7cd3a3"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "44298814-5d7c-420a-adb6-ef8949c37215"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9e8e3b8a-e4bb-43cf-b0c2-6b23773ae7e6"
+        }
+    ]
+}

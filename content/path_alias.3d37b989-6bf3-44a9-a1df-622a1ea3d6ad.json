@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3d37b989-6bf3-44a9-a1df-622a1ea3d6ad"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2ef09a28-5c63-4efb-9b39-d83978f24867"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/socialnode"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

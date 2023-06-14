@@ -1,0 +1,41 @@
+{
+    "uuid": [
+        {
+            "value": "0d532676-383a-4c57-b09b-32f2a0fa0126"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "b80b71f2-d5dd-4790-a84b-11940dbb9f52"
+        }
+    ],
+    "title": [
+        {
+            "value": "Create Blog"
+        }
+    ],
+    "weight": [
+        {
+            "value": 3
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/node\/add\/blog",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

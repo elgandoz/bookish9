@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dc642999-f8d2-441a-a7d7-a96c06052e2d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7bf2f7e6-f1b1-4f49-875b-0bfed5f077a3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/blog\/learning-ride-moose"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "uuid": [
+        {
+            "value": "56b1a71f-0375-44aa-8018-0c0b37c5428e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "503df637-93a2-43c7-b067-7d5913ac9c2f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "steven-diaz-Shuj-9LqHwk-unsplash.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/steven-diaz-Shuj-9LqHwk-unsplash.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 163500
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-14T10:08:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-14T10:08:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": [
+        {
+            "value": "{\"brightness\":7,\"contrast\":-7,\"saturation\":13,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":0,\"green\":0,\"blue\":-7,\"focal_point\":[888,860]}"
+        }
+    ]
+}
